@@ -1,6 +1,6 @@
 # Rode-Clone
 
-## Project 03  [Live link]()
+## Project 03  [Live link](https://rode-webpage.netlify.app/)
 - Skills Gained in this project
     - Learned about Tailwind css and various properties of tailwind css.
     - Learned to make cards and mediaquery for responviveness.
